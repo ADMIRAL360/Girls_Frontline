@@ -1,0 +1,43 @@
+bookmarks = {
+	bookmark = {
+		name = "세상을 새로 쓸 칼끝"
+		desc = "CUTTING_EDGE_DESC"
+		date = 2062.1.1.12
+		picture = "GFX_girls_frontline_bookmark"
+		default_country = "GRI"
+	
+		GRI = {
+			history = GRI_CUTTING_EDGE_DESC
+			ideology = neutrality
+			ideas={
+				GRI_grifon_dolls_development_ideas
+				GRI_t_dolls_ideas
+				GRI_political_situation_ideas
+			}
+			focuses = {
+				GRI_start
+				GRI_doll_commander
+				GRI_fascism3
+
+			}
+		}
+
+		# minors from DLC ####
+		"GER"={
+			minor = yes
+			history = "GER_CUTTING_EDGE_DESC"
+			ideology = neutrality
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
+
+		effect = {
+			randomize_weather = 12345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

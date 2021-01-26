@@ -1,0 +1,14 @@
+﻿l_english:
+####404소대 숙청 선택####
+ GRI_404_Purge_category:0 "404소대 숙청"
+ GRI_404_Purge_category_desc:0 "404소대, 그녀들은 그리폰의 큰 도움이 되었습니다. 그러나 우리 그리폰은 사내의 '투명성'에 대한 요구에 응하지 않을 수 없었습니다. 그녀들을 없애는 것은 매우 어려우며, 심지어는 끔찍하게 잘못될 수도 있습니다. 그러나 해야만 할 것입니다."
+ 404_Purge_UMP45:0 "UMP45 숙청"
+ 404_Purge_UMP9:0 "UMP9 숙청"
+ 404_Purge_HK416:0 "HK416 숙청"
+####AR소대 숙청####
+ GRI_AR_Purge_category:0 "AR소대 숙청"
+ GRI_AR_Purge_category_desc:0 "AR소대는 인간의 뇌를 복제하여 만들어졌다는 이야기가 공공연히 떠돌고 있지만, 이젠 그것이 사실인지는 상관 없습니다. 그녀들은 사라져야만 합니다."
+ AR_Purge_M4A1:0 "M4A1 숙청"
+ AR_Purge_ST_AR-15:0 "ST AR-15 숙청"
+ AR_Purge_M4_SOPMOD_II:0 "M4 SOPMOD II 숙청"
+ AR_Purge_RO635:0 "RO635 숙청"
