@@ -1,8 +1,8 @@
 
 # MAIN THEME
 music = {
-	name = "Dreams I'll Never See"
-	file = "Dreams-I_ll-Never-See.ogg"
+	name = "maintheme"
+	file = "Hopelessly-Devoted-To-You.ogg"
 	volume = 0.65
 }
 
@@ -14,7 +14,7 @@ music = {
 }
 music = {
 	name = "general_peace_2"
-	file = "thewarends.ogg"
+	file = "Dreams-I_ll-Never-See.ogg"
 	volume = 0.65
 }
 music = {
